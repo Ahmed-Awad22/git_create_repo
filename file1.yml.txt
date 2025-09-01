@@ -1,6 +1,5 @@
 line 1 master
-line 2
-line 3
 line 1 branch 
 testing branch 1
 line 3 on test branch after first push
+testing Git GUI
